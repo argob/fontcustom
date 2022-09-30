@@ -208,7 +208,7 @@ module Fontcustom
   text-transform: none;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-smoothing: auto; |
+  font-smooth: auto; |
       end
 
       def glyphs
